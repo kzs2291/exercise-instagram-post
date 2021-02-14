@@ -1,0 +1,31 @@
+.post-header {
+    height: 45px;
+    padding: 10px;
+}
+.post-header div {
+    float: left;
+}
+#post-header-logol{
+    margin-right: 5px;
+}
+#post-header-logor{
+    float: right;
+}
+img {
+   max-width: 100%;
+}
+.post-actions {
+    padding: 10px;
+}
+.post-actions div {
+    float: left;
+    margin-right: 5px;
+   
+}
+#post-action-bookmark {
+    float: right;
+}
+.post-body {
+    margin: 10px;
+    padding-top: 20px;
+}
